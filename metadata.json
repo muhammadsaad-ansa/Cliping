@@ -1,0 +1,6 @@
+{
+  "name": "CLIPING AI",
+  "description": "Platform AI Video Clipper profesional untuk mengubah video panjang menjadi video pendek berkualitas tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
